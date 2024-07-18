@@ -1,9 +1,8 @@
 import os
 
 print("""
-\x1b[38;2;255;20;147m╦╔═ ╔═╗ ╦═╗ ╔╦╗ ╔═╗
-\x1b[38;2;255;20;147m╠╩╗ ╠═╣ ╠╦╝ ║║║ ╠═╣
-\x1b[38;2;255;20;147m╩ ╩ ╩ ╩ ╩╚═ ╩ ╩ ╩ ╩\x1b[38;2;0;255;58m>(setup)
+LAST WARNING ⚠️ 
+TELEGRAM ID @hardhackar007m╩\x1b[38;2;0;255;58m>(setup)
 """) 
 
 print("""[0] pip\n[1] pip3\nWhich one do you use?""")
